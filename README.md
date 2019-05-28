@@ -121,6 +121,7 @@
   - 들떠서 음식물을 너무 많이 사지 않도록 주의. 숨겨서 몰래 먹기도 힘들고 다 남음
   - 추천 구입 품목
     - [Dr.G 달팽이크림](http://www.11st.co.kr/product/SellerProductDetail.tmall?method=getSellerProductDetail&prdNo=1990593262&gclid=EAIaIQobChMIu4K8wO294gIVmQcqCh0WLQUSEAYYASABEgI79vD_BwE&utm_term=&utm_campaign=%B1%B8%B1%DB%BC%EE%C7%CEPC+%C3%DF%B0%A1%C0%DB%BE%F7&utm_source=%B1%B8%B1%DB_PC_S_%BC%EE%C7%CE&utm_medium=%B0%CB%BB%F6) - 정가 14만원인데 PX에서는 7천원 정도에 판매. 효과도 좋고 싸서 인당 5개 구입 제한이 있지만 금방 품절됨
+- 의무실에서 받은 약은 효과가 없다고 해서 임의로 폐기 처분하면 안 됨(분대장을 통해 의무실로 반납해야함)
 
 ### 훈련
 
