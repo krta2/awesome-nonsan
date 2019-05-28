@@ -118,7 +118,7 @@
 - [군대리아](https://namu.wiki/w/%EA%B5%B0%EB%8C%80%EB%A6%AC%EC%95%84)
   - (개인취향 주의) 굳이 비닐장갑끼고 재료들을 힘들게 햄버거로 만들어 먹지 않고 따로 따로 먹어도 맛있고 깔끔함
 - PX
-  - 보통은 훈련소 생활 동안 1~2회 정도는 갈 기회가 있으나, 중대와 상황에 따라 한번도 가지 않는 경우도 존재함
+  - 보통은 훈련소 생활 동안 1~2회 정도는 갈 기회가 있으나, 중대와 상황에 따라 한번도 가지 못하는 경우도 존재함
   - 들떠서 음식물을 너무 많이 사지 않도록 주의. 숨겨서 몰래 먹기도 힘들고 다 남음
   - 추천 구입 품목
     - [Dr.G 달팽이크림](http://www.11st.co.kr/product/SellerProductDetail.tmall?method=getSellerProductDetail&prdNo=1990593262&gclid=EAIaIQobChMIu4K8wO294gIVmQcqCh0WLQUSEAYYASABEgI79vD_BwE&utm_term=&utm_campaign=%B1%B8%B1%DB%BC%EE%C7%CEPC+%C3%DF%B0%A1%C0%DB%BE%F7&utm_source=%B1%B8%B1%DB_PC_S_%BC%EE%C7%CE&utm_medium=%B0%CB%BB%F6) - 정가 14만원인데 PX에서는 7천원 정도에 판매. 효과도 좋고 싸서 인당 5개 구입 제한이 있지만 금방 품절됨
