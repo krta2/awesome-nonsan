@@ -60,7 +60,7 @@
   - 아날로그 보다는 디지털
   - 추천 - [지샥 머드맨](https://www.coupang.com/vp/products/38065513?itemId=140354969&vendorItemId=3003469445&q=%EC%A7%80%EC%83%A5+%EB%A8%B8%EB%93%9C%EB%A7%A8&itemsCount=36&searchId=9e34fbb1625d4cf7ad98408743e2e89e&rank=0&isAddedCart=)
 - 물티슈
-  - 총기 손질, 위장 지울 때 빛을 발함 (위장 지우는 용으로는 클렌징 티슈를 좀 더 추천)
+  - 총기 손질, 위장 지울 때 빛을 발함(위장 지우는 용으로는 클렌징 티슈를 좀 더 추천)
   - 입소 때 내라고 할 수 있으나 안 내는거 추천
 - 우표
 - 약
