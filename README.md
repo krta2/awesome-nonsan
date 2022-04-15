@@ -28,6 +28,7 @@
 
 ## 코로나19
 - [2021년 7월 입소 기준 정보](https://github.com/krta2/awesome-nonsan/issues/18)
+- [2022년 3월 입소 기준 정보](https://github.com/krta2/awesome-nonsan/issues/21)
 
 
 ## 준비물
